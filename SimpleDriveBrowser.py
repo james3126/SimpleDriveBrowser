@@ -1,4 +1,4 @@
-# All Drive Browser - James Kerley - 2018
+# Simple Drive Browser - James Kerley - 2018
 # Imports
 import os
 import ctypes
